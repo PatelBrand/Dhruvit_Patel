@@ -1856,3 +1856,7 @@ border-radius: var(--border-radius);
   float: left;
   /* width: 600px    ; */
 }
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
