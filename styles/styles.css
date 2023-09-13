@@ -1321,7 +1321,7 @@ html {
   left: 35px;
   border-radius: 50%;
   background-color: #000;
-  background-image: url(image1.jpg);
+  background-image: url(image.gif);
   background-size: cover;
   border: white solid 3px;
 }
@@ -1454,7 +1454,6 @@ html {
   
   section {
     min-height: 30vh;
-    width: 200%;
     position: absolute;
     left: 0;
     top: 0;
@@ -1471,6 +1470,18 @@ html {
   .circle{
     width: 40vh;
     height: 40vh;
+  }
+  header{
+      min-height: 200vh;
+    
+  }
+  .footer-distributed{
+       margin-top: 100px;
+       margin-bottom: 50px;
+  }
+  .port-text{
+    margin-top:100px ;
+
   }
 
 }
